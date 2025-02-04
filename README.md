@@ -1,5 +1,5 @@
 
-![졸작 대표도](https://github.com/user-attachments/assets/35963617-2cbe-42d8-a082-d7af8f8c4145)
+![졸작 대표도](https://github.com/user-attachments/assets/35963617-2cbe-42d8-a082-d7af8f8c4145){: width="100" height="100"}
 
 A patrol drone can be utilized to enable efficient patrolling in areas that are difficult for humans to patrol, such as mountainous terrain or restricted zones.
 
