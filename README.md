@@ -7,3 +7,7 @@ When a suspicious individual is identified, the drone tracks them while streamin
 Additionally, the drone captures photos and saves them along the designated route. 
 
 These stored photos are then uploaded to a website in real time, allowing administrators or relevant personnel to review them immediately.
+
+
+https://github.com/user-attachments/assets/7a7864db-ae31-4e66-ba61-3a99ef453f2d
+
